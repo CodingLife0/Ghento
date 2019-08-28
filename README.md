@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-The bot features a default !help command as seen below.\
+The bot features a default !help command as seen below.
 
 
 ![Help Menu](https://i.ibb.co/zZR2ds0/Annotation-2019-08-28-165619.png)
