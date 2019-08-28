@@ -1,6 +1,6 @@
 # Ghento ✨
 
-Ghento is a python coded discord bot intended for practitional purposes. Please bear in mind that the bot is still in development stages and may have internal errors. I am not to blame for any damaged caused by these errors.
+Ghento is a python coded discord bot intended for practitional purposes. Please bear in mind that the bot is still in development stages and users may experience initial server errors and malfunctioning. I am not to blame for any damaged caused by these errors. 
 
 ## Installation
 
